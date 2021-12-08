@@ -1,0 +1,116 @@
+
+
+
+
+h1 {
+    color: black(211, 164, 95, 0.781)
+
+}
+
+body {
+    background-image: url("https://dominicroye.github.io/en/2018/how-to-create-warming-stripes-in-r/featured_hu16db9f9df0ff2da9db957db9d87ae3f3_14607_680x500_fill_q90_box_smart1_2.png");
+    background-color: #cccccc;
+   }
+
+div {
+    background-color: white; 
+    border-style: circle; 
+    border-color: white; 
+    border-radius: 10px;
+    text-align: center;
+    
+    
+}
+
+h3 {
+    color: black;
+     font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size:30px;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
+
+
+  ul {
+      font-family:monospace;
+      margin-left: auto;
+      margin-right: auto;
+      width: 60;
+      length: 60;
+      background-color: rgb(109, 19, 19); 
+      border-radius: 10px;
+      text-align: center;
+      color: white;
+  }
+
+  ol  {
+    font-family:monospace;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60;
+    length: 60;
+    background-color: rgb(109, 19, 19); 
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+
+    
+  }
+
+  h4 {
+    color: white;
+    font-family: monospace;
+    font-size: 40px;
+    text-align: center;
+
+  }
+
+  button {
+      color: black;
+      border-style: circle; 
+      border-color: black; 
+      border-radius: 10px;
+  }
+
+label{
+    font-size: 30px;
+    font-family:monospace;
+}
+
+.box1{
+    font-size: 20px;
+    text-align: center;
+    color:white;
+    background-color: black;
+ 
+
+}
+
+.box{
+    font-size: 20px;
+    color:white;
+    background-color: rgb(107, 9, 9);
+    border-style: circle; 
+    border-color: white; 
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+* {
+    margin: 0px;
+    padding: opx;
+}
